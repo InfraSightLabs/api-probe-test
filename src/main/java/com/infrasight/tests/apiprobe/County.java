@@ -17,7 +17,7 @@ class County {
 	/** Number of job adverts in the county **/
 	int numJobAdverts;
 	
-	/** Offices in the county **/
+	/** Offices in the county (platser) **/
 	List<Office> offices;
 	
 	/** Number of job adverts per city/municipality **/ 

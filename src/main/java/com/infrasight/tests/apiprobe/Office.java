@@ -1,7 +1,7 @@
 package com.infrasight.tests.apiprobe;
 
 /**
- * Represents an office for Arbetsformedligen
+ * Represents an office (plats) for Arbetsformedligen
  */
 class Office {
 	/** Office Code (platskod) **/
