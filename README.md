@@ -17,7 +17,7 @@ Template for API probe coding test.
 5. Goto 2 until program works
 
 ## Task
-Arbetsförmedligen (AF) has a REST API documented at https://jobtechdev.se/swagger.
+Arbetsförmedligen (AF) has a REST API documented at https://jobtechdev.se/swagger/.
 
 There are two Java classes predefined in api-probe-template:
 
